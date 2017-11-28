@@ -1,0 +1,27 @@
+{
+	"auto_complete_selector": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Easyballs - Callum Edit (SL) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE).tmTheme",
+	"draw_white_space": "selection",
+	"fallback_encoding": "Western (Windows 1252)",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ColorPick",
+		"Vintage"
+	],
+	"rulers":
+	[
+		120
+	],
+	"scroll_speed": 2.0,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": false,
+	"theme": "Boxy Monokai.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"ColorPick"
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Boxy Theme",
+		"ColorPick",
+		"ColorSchemeEditor",
+		"Colorsublime",
+		"Copy Python Path",
+		"Create Save Prompt",
+		"FileDiffs",
+		"Git",
+		"Git blame",
+		"GitGutter",
+		"Go To Definition",
+		"Grepmark",
+		"ImportHelper",
+		"JSON Reindent",
+		"KeyboardSpellCheck",
+		"Line Endings Unify",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"Python Breakpoints",
+		"Python Debugger",
+		"QuickRulers",
+		"SideBarEnhancements",
+		"Smart Path Copy",
+		"SortBy",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pep8",
+		"SublimePythonIDE",
+		"Terminal",
+		"tmux_open",
+		"Whitespace"
+	]
+}

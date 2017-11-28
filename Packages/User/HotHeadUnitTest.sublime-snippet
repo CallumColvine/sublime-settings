@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+
+def test_${1:test_name}():
+    log_doc = json_file${2:s}_to_dict${3:s}(__file__, ${4:filename})
+    events, aggregates = transform_aggregate_logdoc${5:s}(
+        log_doc,
+        '${6:game}',
+        event_filter='${7:}_event',
+        event_aggregator='${8:}',
+        post_aggregator='${9:}'
+    )
+    pass
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>unittestfunction_hh</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>
+

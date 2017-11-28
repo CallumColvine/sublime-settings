@@ -1,0 +1,14 @@
+
+<snippet>
+    <content><![CDATA[
+from game_etl.util.file_parser import json_files_to_dicts
+from game_etl.util.file_parser import json_file_to_dict
+from game_etl.test.game_event_mappers.util_unit_tests import transform_aggregate_logdocs
+from game_etl.test.game_event_mappers.util_unit_tests import transform_aggregate_logdoc
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>unitttestimports_hh</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>
