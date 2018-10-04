@@ -1,0 +1,1877 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hothead",
+				"hothead_test\t(hothead_unittest_snippet.sublime-snippet)"
+			],
+			[
+				"hot",
+				"hothead_test\t(hothead_unittest_snippet.sublime-snippet)"
+			],
+			[
+				"mission",
+				"mission_columns"
+			],
+			[
+				"json",
+				"json_file_to_dict"
+			],
+			[
+				"json_file_to_dic",
+				"json_files_to_dicts"
+			],
+			[
+				"sce",
+				"scenario_blob"
+			],
+			[
+				"misison",
+				"mission_stars"
+			],
+			[
+				"scena",
+				"scenario_blob\t(test_mission_stars.py)"
+			],
+			[
+				"mission_",
+				"mission_stars\t(test_mission_stars.py)"
+			],
+			[
+				"getmission",
+				"get_mission_stars_receipt"
+			],
+			[
+				"scen",
+				"scenario_blob\t(scenario_component.py)"
+			],
+			[
+				"scenario",
+				"scenario_blob\t(scenario_component.py)"
+			],
+			[
+				"get_miss",
+				"get_mission_stars_receipt"
+			],
+			[
+				"get_mission",
+				"get_mission_stars_receipt\t(utils.py)"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"event",
+				"event_data"
+			],
+			[
+				"raidresu",
+				"CmdCoopRaidResults_MissingItems.json"
+			],
+			[
+				"uti",
+				"utils\t(cmd_mission_quick_win.py)"
+			],
+			[
+				"survivors",
+				"survivors\t(test_create_new_team.py)"
+			],
+			[
+				"transform",
+				"transform_aggregate_logdoc\t(test_bounties.py)"
+			],
+			[
+				"eventid",
+				"event_id_strip"
+			],
+			[
+				"curr",
+				"currency_id"
+			],
+			[
+				"max",
+				"max_mins_cur_health"
+			],
+			[
+				"boss",
+				"boss_max"
+			],
+			[
+				"progression_",
+				"progression_id"
+			],
+			[
+				"bounty",
+				"bounty_start_and_killed.json"
+			],
+			[
+				"progre",
+				"progression_item"
+			],
+			[
+				"progress",
+				"progression_level\t(bounty_receipt.py)"
+			],
+			[
+				"bounty_event",
+				"bounty_event_id"
+			],
+			[
+				"val",
+				"val_isinstance"
+			],
+			[
+				"instanc",
+				"instance_in_set\t(validations.py)"
+			],
+			[
+				"val_",
+				"val_in_set\t(validations.py)"
+			],
+			[
+				"bounty_even",
+				"bounty_event_id"
+			],
+			[
+				"bounty_e",
+				"bounty_event_id"
+			],
+			[
+				"progression",
+				"progression_id"
+			],
+			[
+				"get_",
+				"get_team_power"
+			],
+			[
+				"Survivo",
+				"SurvivorsCmdMissionStart\t(cmd_raid_mission_start.py)"
+			],
+			[
+				"Sur",
+				"SurvivorsCmdCoopRaidResults\t(cmd_coop_raid_results.py)"
+			],
+			[
+				"Survi",
+				"SurvivorsCmdMissionStart\t(cmd_raid_mission_start.py)"
+			],
+			[
+				"scenari",
+				"scenario_component"
+			],
+			[
+				"_get_",
+				"_get_scenario_component\t(cmd_coop_raid_results.py)"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"prog",
+				"progression_action\t(progression_component.py)"
+			],
+			[
+				"kille",
+				"killed_server_confirmed\t(test_bounties.py)"
+			],
+			[
+				"create",
+				"create_progression_item"
+			],
+			[
+				"bount",
+				"bounty_item"
+			],
+			[
+				"analy",
+				"analytic_event_container"
+			],
+			[
+				"command",
+				"command_component"
+			],
+			[
+				"se",
+				"sequence_component"
+			],
+			[
+				"BountyEven",
+				"bounty_event"
+			],
+			[
+				"get",
+				"get_bounty_event"
+			],
+			[
+				"prog_",
+				"prog_action"
+			],
+			[
+				"progressi",
+				"progression_action"
+			],
+			[
+				"pro",
+				"progression_id\t(progression_component.py)"
+			],
+			[
+				"Prog",
+				"ProgUpdateReceipt"
+			],
+			[
+				"curer",
+				"currency_type"
+			],
+			[
+				"meta",
+				"metadata_category\t(transactions_aggregate.py)"
+			],
+			[
+				"Metad",
+				"MetadataComponent"
+			],
+			[
+				"simple",
+				"simple_event"
+			],
+			[
+				"currenthe",
+				"current_health\t(bounty_aggregate.py)"
+			],
+			[
+				"hero",
+				"hero_list"
+			],
+			[
+				"boun",
+				"bounty_item"
+			],
+			[
+				"bl",
+				"bounty_blob"
+			],
+			[
+				"biy",
+				"bounty_item"
+			],
+			[
+				"bo",
+				"bounty_blob"
+			],
+			[
+				"analyti",
+				"analytic_event_types"
+			],
+			[
+				"Analy",
+				"AnalyticEventContainer"
+			],
+			[
+				"Anan",
+				"AnalyticEventContainer\t(cmd_mission_quick_win.py)"
+			],
+			[
+				"anal",
+				"analytic_event_container\t(cmd_mission_quick_win.py)"
+			],
+			[
+				"compo",
+				"component_types\t(bounty_aggregate.py)"
+			],
+			[
+				"sur",
+				"survivors"
+			],
+			[
+				"bulk",
+				"bulk_event_handler\t(cmd_mission_quick_win.py)"
+			],
+			[
+				"bounty_",
+				"bounty_agg"
+			],
+			[
+				"funn",
+				"funnel_event\t(funnel_history.py)"
+			],
+			[
+				"b",
+				"bounty_aggregate"
+			],
+			[
+				"bou",
+				"bounty_item"
+			],
+			[
+				"Bount",
+				"BountyAggregate"
+			],
+			[
+				"game",
+				"game_etl"
+			],
+			[
+				"acti",
+				"activated_bounty"
+			],
+			[
+				"event_aggre",
+				"event_aggregate\t(progression_aggregate.py)"
+			],
+			[
+				"aggr",
+				"aggregate\t(progression_aggregate.py)"
+			],
+			[
+				"String",
+				"StringDateTime\t(user_summary_raw_post_aggregate.py)"
+			],
+			[
+				"componen",
+				"component_types"
+			],
+			[
+				"Abstr",
+				"AbstractComponentContainer"
+			],
+			[
+				"Bounty",
+				"BountyItem"
+			],
+			[
+				"Ux",
+				"UxArcContainer"
+			],
+			[
+				"_client",
+				"_client_receipts\t(bounty_activated.json)"
+			],
+			[
+				"Boun",
+				"BountyEvent"
+			],
+			[
+				"clas",
+				"classmethod\t(cmd_bounty_activated.py)"
+			],
+			[
+				"event_",
+				"event_filter"
+			],
+			[
+				"agg",
+				"agg"
+			],
+			[
+				"log",
+				"log_doc"
+			],
+			[
+				"team",
+				"create_new_team.json"
+			],
+			[
+				"proge",
+				"progression_component"
+			],
+			[
+				"account",
+				"account_aggregate\t(aggregate.py)"
+			],
+			[
+				"game_etl",
+				"game_etl_to_postback_event"
+			],
+			[
+				"Bops",
+				"BOPSGameETLToPostbackTransformer"
+			],
+			[
+				"transfor",
+				"transform_player_levelup_event\t(bops_game_etl_to_postback_transformer.py)"
+			],
+			[
+				"GameE",
+				"GameETLToPostbackTransformer\t(game_etl_to_postback_transformer.py)"
+			],
+			[
+				"Acco",
+				"AccountComponent\t(account_event.py)"
+			],
+			[
+				"tx",
+				"tx_action\t(inventory_aggregate.py)"
+			],
+			[
+				"cur",
+				"currency_component\t(account_event.py)"
+			],
+			[
+				"acc",
+				"account_component"
+			],
+			[
+				"uer",
+				"user_history"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"e",
+				"event\t(aggregate_tournament.py)"
+			],
+			[
+				"AggregateA",
+				"AggregateAccount\t(aggregate.py)"
+			],
+			[
+				"Curren",
+				"CurrencyComponent"
+			],
+			[
+				"ux",
+				"ux_moment"
+			],
+			[
+				"el",
+				"elif\t(metadata.py)"
+			],
+			[
+				"acco",
+				"account_component"
+			],
+			[
+				"Acc",
+				"AccountComponent"
+			],
+			[
+				"Api",
+				"APIHandler\t(create_new_team.py)"
+			],
+			[
+				"gacha",
+				"gacha_aggregates"
+			],
+			[
+				"comman",
+				"command\t(utils_gacha.py)"
+			],
+			[
+				"inven",
+				"inventory_component\t(utils_gacha.py)"
+			],
+			[
+				"gach",
+				"gacha_event"
+			],
+			[
+				"add_",
+				"add_progression\t(progression_component.py)"
+			],
+			[
+				"progr",
+				"progression_limit\t(progression_component.py)"
+			],
+			[
+				"Progre",
+				"ProgressionComponent\t(gacha_event.py)"
+			],
+			[
+				"Roll",
+				"RollBoxGacha"
+			],
+			[
+				"EVENT_T",
+				"EVENT_TYPE_LEVELUP"
+			],
+			[
+				"test",
+				"test_supersonic_levelup_ios"
+			],
+			[
+				"ins",
+				"instruction_size\t(connection_component.py)"
+			],
+			[
+				"inst",
+				"instruction_size"
+			],
+			[
+				"Ma",
+				"MagicMock"
+			],
+			[
+				"region",
+				"region_complete_events"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pkcon",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"pkin",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"python",
+				"Python: Get documentation"
+			],
+			[
+				"disable",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"linte",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"copy p",
+				"File: Copy Path"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"ss json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"copy path",
+				"File: Copy Path"
+			],
+			[
+				"copy pa",
+				"File: Copy Path"
+			],
+			[
+				"git anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"ss",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjson",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"ss c",
+				"Set Syntax: C"
+			],
+			[
+				"copypa",
+				"File: Copy Path"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"whitesp",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"insk",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"ruler",
+				"QuickRulers: Open Panel"
+			],
+			[
+				"pkgin",
+				"Package Control: Install Package"
+			],
+			[
+				"lint tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sspyh",
+				"Set Syntax: Python"
+			],
+			[
+				"copyp",
+				"File: Copy Path"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"copt",
+				"File: Copy Path From Project"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Stash"
+			],
+			[
+				"pk",
+				"Package Control: Install Package"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"new file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"white",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"pkg",
+				"Package Control: Install Package"
+			],
+			[
+				"cop",
+				"File: Copy Path From Project Encoded"
+			],
+			[
+				"path",
+				"File: Copy Path From Project Encoded"
+			],
+			[
+				"pp",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"new vi",
+				"File: New View into File"
+			],
+			[
+				"remove",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"colorche",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"pkgins",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"",
+				"File: Copy Path From Project"
+			],
+			[
+				"filename",
+				"File: Copy Name"
+			],
+			[
+				"new v",
+				"File: New View into File"
+			],
+			[
+				"git: diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git: re",
+				"Git: Graph Current File"
+			],
+			[
+				"format ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ss pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pretty for",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Validate"
+			],
+			[
+				"json ",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"new vie",
+				"File: New View into File"
+			],
+			[
+				"termi",
+				"Terminal: Open in project folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ss pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"regex",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"ppjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git version",
+				"Git: Version"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git checkout",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git dele",
+				"Git: Delete Branch"
+			],
+			[
+				"git change",
+				"Git: Change Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git ch",
+				"Git: Change Branch"
+			],
+			[
+				"git commi",
+				"Git: Commit history"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"git add ...",
+				"Git: Add..."
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git add...",
+				"Git: Add..."
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"change ",
+				"Git: Change Branch"
+			],
+			[
+				"pkg ins",
+				"Package Control: Install Package"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"new folde",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git checkout new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"git de",
+				"Git: Delete Branch"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"Pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git op",
+				"Git: Open Modified Files"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git open",
+				"Git: Open..."
+			],
+			[
+				"git sl",
+				"Git: Stash List"
+			],
+			[
+				"git st",
+				"Git: Stash List"
+			],
+			[
+				"pp json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"open file",
+				"Terminal: Open in project folder"
+			],
+			[
+				"file ",
+				"File: Locate"
+			],
+			[
+				"breakpoi",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"Colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ssJSO",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ccolvine/.config/sublime-text-3/Packages/User/tuba.sublime-project",
+		"/home/ccolvine/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/ccolvine/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/common/inventory_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/currency_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/inventory_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/metadata/ks2_metadata.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/bulk_command/read_message.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/bulk_command/sao_transaction_event_handler.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/ks2/bulk_command/read_message.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/ks2/bulk_command/roll_gacha.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/ks2/bulk_command/roll_box_gacha.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/ks2/bulk_command/complete_scenario.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/metadata/metadata.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/metadata/survivors_metadata.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/bulk_event_handler.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/inventory_bulk_command.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_buy_regular_currency.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/create_new_team/create_new_team.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/bops/test_currency_exchanged.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/common/transactions_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/hothead_unittest_snippet.sublime-snippet",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/abstract_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/progression_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/bops/api_send_match_result.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/bops/test_complete_scenario.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/pvp_match_without_sendmatchresults.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/bops/bops_retrieve_inbox.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/disconnect_pvp_match_2.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/disconnect_pvp_match_1.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/disconnect_pvp_match_0.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/history/bops/mission_history.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/bops/bulk_command/battle/complete_scenario.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/win_bot_match.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/bulk_command/complete_scenario.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/win_bot_match.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/bulk_command/battle/test_complete_scenario_no_match_id.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/sniperduel/bulk_command/open_match_win_crate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/bops/api_mapper.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/complete_scenario_empty_decks.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/scenario_tutorial_loss.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/bops/complete_scenario_connectivity.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/bops/mission_post_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/bops/gameplay_events/v1/sendmatchresult_gameplay.json",
+		"/tmp/mozilla_ccolvine0/perf.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_pvp_bot_results.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/survivors/test_cmd_pvp_bot_results.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/api_bulk_command.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/normal_mission_stars.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/test_mission_stars.py",
+		"/tmp/mozilla_ccolvine0/cmd_pvp_bot_results_no_matchid_zero_currencies.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/scenario_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_bounty_result.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/quickwin_mission_stars.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_mission_quick_win.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_coop_raid_results.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/coop_raid_stars.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_raid_mission_quick_win.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_mission_complete.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/normal_raid_stars.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_raid_mission_complete.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/utils.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/resources/normal_mission_stars.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/resources/quickwin_mission_stars.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/survivors/mission_post_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/utils.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/util/validations.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/survivors/test_cmd_raid_mission_quickwin.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/receipt_transforms/simple_receipt.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/test_negative_balances.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/resources/gold_rare_coop_raid.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/resources/CmdCoopRaidResults.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/test_inventory_balances.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/resources/CmdCoopRaidResults_MissingItems.json",
+		"/tmp/mozilla_ccolvine0/CmdCoopRaidResults_MissingItems.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_craft_item.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/api_mapper.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/survivors/test_create_new_team.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/api_register_iap.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/api_register_iap.py",
+		"/home/ccolvine/PycharmProjects/tuba/schema/validators.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/survivors_api_update_clan.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/create_new_team/create_new_team.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/api_handler.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/test_bounties.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/survivors/aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/survivors/test_cmd_mission_quick_win.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/receipt_transforms/col_set_currencies.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/survivors/testdata/cmd_mission_quick_win.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/receipt_transforms/col_set_items.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/api_create_new_team.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/receipt_transforms/bounty_receipt.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_bounty_start.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/test_cmd_coop_raid_results.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/currency_match_helper.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/currency_match_helper.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/common/progression_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/bounty_complete_not_killed.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/bounty_activated.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_pvp_results.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/bounty_start_and_killed.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/metadata_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/bounty_complete_and_killed.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/bounty_start_not_killed.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/survivors/bounty_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/common/mission_post_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/bounty_start.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/resources/survivors/bounty_energy_used_and_complete.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/history/survivors/mission_history.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/bops/bulk_command/crates/crate_utils.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/command_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/bounty_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/events/bounty_event.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/survivors/test_cmd_raid_mission_start.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/util_unit_tests.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_raid_mission_start.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/aggregate/core/post_aggregate.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/aggregate/ksb/test_start_complete_scenario.py",
+		"/home/ccolvine/post_aggregator=loadout,",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_mission_start.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/test/game_event_mappers/survivors/testdata/bounty_start.json",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/events/survivors/unused_components_event.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/components/loadout_component.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/survivors/bulk_command/cmd_bounty_activated.py",
+		"/home/ccolvine/PycharmProjects/tuba/schema/table.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/events/progression_event.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/api_bulk_command.py",
+		"/home/ccolvine/PycharmProjects/tuba/game_etl/transform/common/bulk_command/bulk_event_handler.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 234.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 260.0
+	},
+	"output.git-checkout":
+	{
+		"height": 118.0
+	},
+	"output.git-commit":
+	{
+		"height": 118.0
+	},
+	"output.git-pull":
+	{
+		"height": 118.0
+	},
+	"output.git-push":
+	{
+		"height": 118.0
+	},
+	"output.help":
+	{
+		"height": 253.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tuba.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gunada",
+				"game_etl/test/resources/ksb/gun_a_day_initial_purchase_bulk_command.json"
+			],
+			[
+				"testada",
+				"game_etl/test/aggregate/ksb/test_gun_a_day_card.py"
+			],
+			[
+				"inventorya",
+				"game_etl/aggregate/common/inventory_aggregate.py"
+			],
+			[
+				"ks2metadata",
+				"game_etl/metadata/ks2_metadata.py"
+			],
+			[
+				"inventoryagg",
+				"game_etl/aggregate/common/inventory_aggregate.py"
+			],
+			[
+				"rollgacha",
+				"game_etl/transform/ks2/bulk_command/roll_gacha.py"
+			],
+			[
+				"ksb/readmessage",
+				"game_etl/transform/ks2/bulk_command/read_message.py"
+			],
+			[
+				"ksbcomplete",
+				"game_etl/transform/ks2/bulk_command/complete_scenario.py"
+			],
+			[
+				"boxgacha",
+				"game_etl/transform/ks2/bulk_command/roll_box_gacha.py"
+			],
+			[
+				"inventory",
+				"game_etl/components/inventory_component.py"
+			],
+			[
+				"currencycom",
+				"game_etl/components/currency_component.py"
+			],
+			[
+				"hothe",
+				"hothead_unittest_snippet.sublime-snippet"
+			],
+			[
+				"sur",
+				"game_etl/metadata/survivors_metadata.py"
+			],
+			[
+				"metadata",
+				"game_etl/metadata/metadata.py"
+			],
+			[
+				"cmdbuyre.py",
+				"game_etl/transform/survivors/bulk_command/cmd_buy_regular_currency.py"
+			],
+			[
+				"progression",
+				"game_etl/components/progression_component.py"
+			],
+			[
+				"currenc",
+				"game_etl/components/currency_component.py"
+			],
+			[
+				"transactionsa",
+				"game_etl/aggregate/common/transactions_aggregate.py"
+			],
+			[
+				"createnewteam",
+				"game_etl/transform/survivors/create_new_team/create_new_team.py"
+			],
+			[
+				"apisend",
+				"game_etl/transform/bops/api_send_match_result.py"
+			],
+			[
+				"pvpmatchwith",
+				"game_etl/test/resources/bops/pvp_match_without_sendmatchresults.json"
+			],
+			[
+				"testcomple",
+				"game_etl/test/aggregate/bops/test_complete_scenario.py"
+			],
+			[
+				"missionh",
+				"game_etl/history/bops/mission_history.py"
+			],
+			[
+				"win",
+				"game_etl/test/resources/bops/win_bot_match.py"
+			],
+			[
+				"completesche",
+				"game_etl/test/resources/bops/bulk_command/battle/test_complete_scenario_no_match_id.json"
+			],
+			[
+				"bopscomplscenario",
+				"game_etl/transform/bops/bulk_command/battle/complete_scenario.py"
+			],
+			[
+				"openmatch",
+				"game_etl/transform/sniperduel/bulk_command/open_match_win_crate.py"
+			],
+			[
+				"bopsretrie",
+				"game_etl/transform/bops/bops_retrieve_inbox.py"
+			],
+			[
+				"apimapp",
+				"game_etl/transform/bops/api_mapper.py"
+			],
+			[
+				"scenariotutoriallo",
+				"game_etl/test/resources/bops/scenario_tutorial_loss.json"
+			],
+			[
+				"completescnarioconne",
+				"game_etl/test/resources/bops/complete_scenario_connectivity.json"
+			],
+			[
+				"complete_scenario_e",
+				"game_etl/test/resources/bops/complete_scenario_empty_decks.json"
+			],
+			[
+				"bopstest_scenario",
+				"game_etl/test/aggregate/bops/test_complete_scenario.py"
+			],
+			[
+				"bopsmission",
+				"game_etl/aggregate/bops/mission_post_aggregate.py"
+			],
+			[
+				"complete.py",
+				"game_etl/transform/bops/bulk_command/battle/complete_scenario.py"
+			],
+			[
+				"testmisison",
+				"game_etl/test/aggregate/survivors/test_mission_stars.py"
+			],
+			[
+				"cmdmissionquickwin",
+				"game_etl/transform/survivors/bulk_command/cmd_mission_quick_win.py"
+			],
+			[
+				"quickwinmission",
+				"game_etl/test/resources/survivors/quickwin_mission_stars.json"
+			],
+			[
+				"ccopraid",
+				"game_etl/transform/survivors/bulk_command/cmd_coop_raid_results.py"
+			],
+			[
+				"bounty.py",
+				"game_etl/transform/survivors/bulk_command/cmd_bounty_result.py"
+			],
+			[
+				"cmdbounty",
+				"game_etl/transform/survivors/bulk_command/cmd_bounty_result.py"
+			],
+			[
+				"normalmissionst",
+				"game_etl/test/resources/survivors/normal_mission_stars.json"
+			],
+			[
+				"raidmissioncom.py",
+				"game_etl/transform/survivors/bulk_command/cmd_raid_mission_complete.py"
+			],
+			[
+				"cmdmissionco",
+				"game_etl/transform/survivors/bulk_command/cmd_mission_complete.py"
+			],
+			[
+				"raidmissionqu.py",
+				"game_etl/transform/survivors/bulk_command/cmd_raid_mission_quick_win.py"
+			],
+			[
+				"raidmisisoncompl",
+				"game_etl/transform/survivors/bulk_command/cmd_raid_mission_complete.py"
+			],
+			[
+				"bulkcommand",
+				"game_etl/transform/survivors/api_bulk_command.py"
+			],
+			[
+				"quickwin.py",
+				"game_etl/transform/survivors/bulk_command/cmd_raid_mission_quick_win.py"
+			],
+			[
+				"cmdmissioncomplete.py",
+				"game_etl/transform/survivors/bulk_command/cmd_mission_complete.py"
+			],
+			[
+				"valida",
+				"game_etl/util/validations.py"
+			],
+			[
+				"missionpost",
+				"game_etl/aggregate/survivors/mission_post_aggregate.py"
+			],
+			[
+				"scenario_com",
+				"game_etl/components/scenario_component.py"
+			],
+			[
+				"bulkcommandutils",
+				"game_etl/transform/survivors/bulk_command/utils.py"
+			],
+			[
+				"apibulkcommand",
+				"game_etl/transform/survivors/api_bulk_command.py"
+			],
+			[
+				"simple",
+				"game_etl/transform/survivors/receipt_transforms/simple_receipt.py"
+			],
+			[
+				"utils",
+				"game_etl/transform/survivors/utils.py"
+			],
+			[
+				"coopraid",
+				"game_etl/transform/survivors/bulk_command/cmd_coop_raid_results.py"
+			],
+			[
+				"cmdcraft",
+				"game_etl/transform/survivors/bulk_command/cmd_craft_item.py"
+			],
+			[
+				"validation",
+				"game_etl/util/validations.py"
+			],
+			[
+				"validato",
+				"schema/validators.py"
+			],
+			[
+				"crwenewt",
+				"game_etl/transform/survivors/create_new_team/create_new_team.py"
+			],
+			[
+				"apiregisteri",
+				"game_etl/transform/common/api_register_iap.py"
+			],
+			[
+				"api_regi",
+				"game_etl/transform/survivors/api_register_iap.py"
+			],
+			[
+				"api_updateclan",
+				"game_etl/transform/survivors/survivors_api_update_clan.py"
+			],
+			[
+				"mapper",
+				"game_etl/transform/survivors/api_mapper.py"
+			],
+			[
+				"missionquick",
+				"game_etl/transform/survivors/bulk_command/cmd_mission_quick_win.py"
+			],
+			[
+				"crnewtm",
+				"game_etl/transform/survivors/create_new_team/create_new_team.py"
+			],
+			[
+				"colsetcu",
+				"game_etl/transform/survivors/receipt_transforms/col_set_currencies.py"
+			],
+			[
+				"surmetadata",
+				"game_etl/metadata/survivors_metadata.py"
+			],
+			[
+				"colsetitem",
+				"game_etl/transform/survivors/receipt_transforms/col_set_items.py"
+			],
+			[
+				"simpler",
+				"game_etl/transform/survivors/receipt_transforms/simple_receipt.py"
+			],
+			[
+				"cmdmissionquickwinjso",
+				"game_etl/test/game_event_mappers/survivors/testdata/cmd_mission_quick_win.json"
+			],
+			[
+				"api_create",
+				"game_etl/test/resources/survivors/api_create_new_team.json"
+			],
+			[
+				"aggregate",
+				"game_etl/aggregate/survivors/aggregate.py"
+			],
+			[
+				"testbou",
+				"game_etl/test/aggregate/survivors/test_bounties.py"
+			],
+			[
+				"testmissionq",
+				"game_etl/test/game_event_mappers/survivors/test_cmd_mission_quick_win.py"
+			],
+			[
+				"missionquickwin",
+				"game_etl/transform/survivors/bulk_command/cmd_mission_quick_win.py"
+			],
+			[
+				"createnewtea",
+				"game_etl/transform/survivors/create_new_team/create_new_team.py"
+			],
+			[
+				"testcrea",
+				"game_etl/test/game_event_mappers/survivors/test_create_new_team.py"
+			],
+			[
+				"bountyre",
+				"game_etl/transform/survivors/receipt_transforms/bounty_receipt.py"
+			],
+			[
+				"curmatchhel",
+				"game_etl/transform/survivors/currency_match_helper.py"
+			],
+			[
+				"currencymatch",
+				"game_etl/transform/common/currency_match_helper.py"
+			],
+			[
+				"scenariocom",
+				"game_etl/components/scenario_component.py"
+			],
+			[
+				"bounty_re",
+				"game_etl/transform/survivors/bulk_command/cmd_bounty_result.py"
+			],
+			[
+				"testcoop",
+				"game_etl/test/aggregate/survivors/test_cmd_coop_raid_results.py"
+			],
+			[
+				"testboutn",
+				"game_etl/test/aggregate/survivors/test_bounties.py"
+			],
+			[
+				"progressiona",
+				"game_etl/aggregate/common/progression_aggregate.py"
+			],
+			[
+				"bountycomple",
+				"game_etl/test/resources/survivors/bounty_complete_not_killed.json"
+			],
+			[
+				"bounty_activ",
+				"game_etl/test/resources/survivors/bounty_activated.json"
+			],
+			[
+				"bounty_comple",
+				"game_etl/test/resources/survivors/bounty_complete_and_killed.json"
+			],
+			[
+				"metadacom",
+				"game_etl/components/metadata_component.py"
+			],
+			[
+				"metadatacom",
+				"game_etl/components/metadata_component.py"
+			],
+			[
+				"curren",
+				"game_etl/components/currency_component.py"
+			],
+			[
+				"colsetc",
+				"game_etl/transform/survivors/receipt_transforms/col_set_currencies.py"
+			],
+			[
+				"bounty_sta",
+				"game_etl/test/resources/survivors/bounty_start.json"
+			],
+			[
+				"bountykilled",
+				"game_etl/test/resources/survivors/bounty_complete_and_killed.json"
+			],
+			[
+				"bountyene",
+				"game_etl/test/resources/survivors/bounty_energy_used_and_complete.json"
+			],
+			[
+				"validations",
+				"game_etl/util/validations.py"
+			],
+			[
+				"valia",
+				"schema/validators.py"
+			],
+			[
+				"bountyagg",
+				"game_etl/aggregate/survivors/bounty_aggregate.py"
+			],
+			[
+				"missionpos",
+				"game_etl/aggregate/survivors/mission_post_aggregate.py"
+			],
+			[
+				"pvpbotresults.",
+				"game_etl/transform/survivors/bulk_command/cmd_pvp_bot_results.py"
+			],
+			[
+				"coop",
+				"game_etl/transform/survivors/bulk_command/cmd_coop_raid_results.py"
+			],
+			[
+				"cmdbountyre",
+				"game_etl/transform/survivors/bulk_command/cmd_bounty_result.py"
+			],
+			[
+				"bountyener",
+				"game_etl/test/resources/survivors/bounty_energy_used_and_complete.json"
+			],
+			[
+				"bountyresu",
+				"game_etl/transform/survivors/bulk_command/cmd_bounty_result.py"
+			],
+			[
+				"bountystart",
+				"game_etl/test/resources/survivors/bounty_start.json"
+			],
+			[
+				"bountyacti",
+				"game_etl/test/resources/survivors/bounty_activated.json"
+			],
+			[
+				"survmetada",
+				"game_etl/metadata/survivors_metadata.py"
+			],
+			[
+				"metada",
+				"game_etl/metadata/metadata.py"
+			],
+			[
+				"bounty_",
+				"game_etl/transform/survivors/receipt_transforms/bounty_receipt.py"
+			],
+			[
+				"apibulk",
+				"game_etl/transform/survivors/api_bulk_command.py"
+			],
+			[
+				"cmdobuntys",
+				"game_etl/transform/survivors/bulk_command/cmd_bounty_start.py"
+			],
+			[
+				"bountyresul",
+				"game_etl/transform/survivors/bulk_command/cmd_bounty_result.py"
+			],
+			[
+				"test_boun",
+				"game_etl/test/aggregate/survivors/test_bounties.py"
+			],
+			[
+				"testboun",
+				"game_etl/test/aggregate/survivors/test_bounties.py"
+			],
+			[
+				"mishis",
+				"game_etl/history/survivors/mission_history.py"
+			],
+			[
+				"bounty_a",
+				"game_etl/aggregate/survivors/bounty_aggregate.py"
+			],
+			[
+				"crate",
+				"game_etl/transform/bops/bulk_command/crates/crate_utils.py"
+			],
+			[
+				"validaor",
+				"schema/validators.py"
+			],
+			[
+				"meta",
+				"game_etl/metadata/metadata.py"
+			],
+			[
+				"surmeta",
+				"game_etl/metadata/survivors_metadata.py"
+			],
+			[
+				"commandco",
+				"game_etl/components/command_component.py"
+			],
+			[
+				"component",
+				"game_etl/components/abstract_component.py"
+			],
+			[
+				"bounty",
+				"game_etl/components/bounty_component.py"
+			],
+			[
+				"bountyeven",
+				"game_etl/events/bounty_event.py"
+			],
+			[
+				"progresioncom",
+				"game_etl/components/progression_component.py"
+			],
+			[
+				"cmdmissionqickwin.py",
+				"game_etl/transform/survivors/bulk_command/cmd_mission_quick_win.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 638.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

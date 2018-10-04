@@ -2,10 +2,10 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"ColorPick"
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoFileName",
 		"Boxy Theme",
@@ -15,16 +15,19 @@
 		"Copy Python Path",
 		"Create Save Prompt",
 		"FileDiffs",
+		"FindInProject",
 		"Git",
 		"Git blame",
 		"GitGutter",
 		"Go To Definition",
 		"Grepmark",
-		"ImportHelper",
 		"JSON Reindent",
+		"JsonTree",
+		"JsPrettier",
 		"KeyboardSpellCheck",
 		"Line Endings Unify",
 		"Package Control",
+		"Pastery",
 		"Predawn",
 		"Pretty JSON",
 		"Python Breakpoints",
@@ -32,14 +35,16 @@
 		"QuickRulers",
 		"SideBarEnhancements",
 		"Smart Path Copy",
+		"SnippetX",
 		"SortBy",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"SublimeLinter-pep8",
+		"SublimeLinter-pycodestyle",
 		"SublimePythonIDE",
 		"Terminal",
-		"tmux_open",
-		"Whitespace"
+		"tmux",
+		"View In Browser",
+		"Whitespace",
+		"Zip Browser"
 	]
 }

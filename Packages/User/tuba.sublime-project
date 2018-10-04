@@ -1,0 +1,14 @@
+{
+    "SublimeLinter":
+    {
+        "linters":
+        {
+            "flake8": {
+                "disable": true
+            },
+            "pep8": {
+                "disable": true
+            }
+        }
+    }
+}

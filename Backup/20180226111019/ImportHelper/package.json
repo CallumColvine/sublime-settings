@@ -1,0 +1,44 @@
+{
+  "name": "sublime-import-helper",
+  "version": "1.7.6",
+  "license": "MIT",
+  "homepage": "https://github.com/unlight/sublime-import-helper#readme",
+  "scripts": {
+    "eslint": "eslint backend",
+    "postinstall": "npm run build:backend",
+    "build:backend": "browserify -x spawn-sync --bare backend/run.js > backend_run.js",
+    "bb": "npm run build:backend",
+    "prerelease": "npm run eslint && npm run t && npm run build:backend",
+    "release:patch": "npm run prerelease && npm version patch",
+    "release:minor": "npm run prerelease && npm version minor",
+    "test": "npm run prerelease",
+    "mocha": "mocha --timeout 5000",
+    "t": "npm run mocha -- backend/test.js",
+    "test:w": "npm run mocha -- --watch backend/test.js",
+    "inspect": "inspect node_modules/mocha/bin/_mocha --no-timeouts backend/test.js",
+    "updtr": "updtr --test-stdout -R simple --test \"npm run t\""
+  },
+  "devDependencies": {
+    "1-liners": "0.4.0",
+    "@angular/core": "^5.1.1",
+    "@types/node": "^8.5.0",
+    "browserify": "14.5.0",
+    "cross-spawn": "5.1.0",
+    "eslint": "4.13.1",
+    "eslint-plugin-mocha": "4.11.0",
+    "esm-exports": "2.0.3",
+    "mocha": "4.0.1",
+    "object-values": "1.0.0",
+    "pkg-dir": "2.0.0",
+    "read-pkg-up": "3.0.0",
+    "source-map-support": "0.5.0",
+    "spawn-sync": "1.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unlight/sublime-import-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/unlight/sublime-import-helper/issues"
+  }
+}

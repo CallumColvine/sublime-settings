@@ -1,0 +1,1 @@
+{"description": "A Sublime Text Plugin that helps you to import your modules.", "sublime_text": ">=3000", "version": "1.6.3", "platforms": ["*"], "url": "https://github.com/unlight/sublime-import-helper", "dependencies": []}
